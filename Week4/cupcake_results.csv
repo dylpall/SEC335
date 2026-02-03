@@ -1,0 +1,5 @@
+"IP";"FQDN";"PORT";"PROTOCOL";"SERVICE";"VERSION"
+"10.0.5.28";"";"22";"tcp";"ssh";"OpenSSH 5.3 protocol 2.0"
+"10.0.5.28";"";"80";"tcp";"http";"Apache httpd 2.2.15 (CentOS)"
+"10.0.5.28";"";"443";"tcp";"http";"Apache httpd 2.2.15 (CentOS)"
+
